@@ -1,0 +1,11 @@
+Client,Pet,Veterinarian,Date,Time,Reason for consultation,Status,Notes
+Client_1,Pet_1,Veterinarian_1,2026-03-16,07:00:00,"Recurrent vomiting and diarrhea with blood streaks for 24 hours, accompanied by lethargy and anorexia.",Completed,"None					"
+Client_2,Pet_2,Veterinarian_1,2026-03-16,10:00:00,"Severe pruritus, erythema, and hair loss in ventral region, axillae, and pinnae lasting 2 weeks.",Completed,"None					"
+Client_3,Pet_3,Veterinarian_3,2026-03-17,09:00:00,Intermittent left hindlimb lameness and skipping gait when trotting.,Completed,"None					"
+Client_4,Pet_4,Veterinarian_2,2026-03-17,11:00:00,"Paroxysmal dry hacking cough, retching, and expectoration of white foam following exercise or excitement.",Canceled,"None					"
+Client_5,Pet_5,Veterinarian_1,2026-03-18,15:30:00,"Frequent watery vomiting, acute abdominal pain, anorexia, and 'prayer position' posture for 12 hours.",Completed,"None					"
+Client_6,Pet_6,Veterinarian_2,2026-03-18,16:00:00,"Dysuria, stranguria, gross hematuria, and frequent licking of the prepuce.",Canceled,"None					"
+Client_7,Pet_7,Veterinarian_1,2026-03-19,09:00:00,"Prostration, severe weakness, continuous vomiting, and foul-smelling bloody diarrhea for 36 hours.",Completed,"None					"
+Client_8,Pet_8,Veterinarian_2,2026-03-20,12:30:00,"Frequent paroxysmal sneezing, mucopurulent nasal discharge, bilateral ocular epiphora, and lethargy.",Completed,"None				"
+Client_9,Pet_9,Veterinarian_3,2026-03-20,17:00:00,"Dysuria, painful vocalization when attempting to urinate in litter box, periuria, and hematuria.",Confirmed,None
+Client_10,Pet_10,Veterinarian_3,2026-03-21,10:00:00,"Marked abdominal distension ('pot-bellied' appearance), soft diarrhea with visible helminthes, dull coat, and lethargy.",Pending,"None					"
