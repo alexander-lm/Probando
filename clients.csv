@@ -1,11 +1,11 @@
-Document Type,Document Number,Name,Last Name,Email,Phone,Country,State/Departament,City/District,Address,Additional Notes
-DNI,00000000,Client_1,Client_1,client_1@vetcoressen.health,000000000,Country_1,State_1,City_1,Address_1,None
-DNI,00000000,Client_2,Client_2,client_2@vetcoressen.health,000000000,Country_2,State_2,City_2,Address_2,None
-DNI,00000000,Client_3,Client_3,client_3@vetcoressen.health,000000000,Country_3,State_3,City_3,Address_3,None
-DNI,00000000,Client_4,Client_4,client_4@vetcoressen.health,000000000,Country_4,State_4,City_4,Address_4,None
-DNI,00000000,Client_5,Client_5,client_5@vetcoressen.health,000000000,Country_5,State_5,City_5,Address_5,None
-DNI,00000000,Client_6,Client_6,client_6@vetcoressen.health,000000000,Country_6,State_6,City_6,Address_6,None
-DNI,00000000,Client_7,Client_7,client_7@vetcoressen.health,000000000,Country_7,State_7,City_7,Address_7,None
-DNI,00000000,Client_8,Client_8,client_8@vetcoressen.health,000000000,Country_8,State_8,City_8,Address_8,None
-DNI,00000000,Client_9,Client_9,client_9@vetcoressen.health,000000000,Country_9,State_9,City_9,Address_9,None
-DNI,00000000,Client_10,Client_10,client_10@vetcoressen.health,000000000,Country_10,State_10,City_10,Address_10,None
+Document_Type,Document_Number,Name,Last_Name,Email,Phone,Country,State_or_Departament,City_or_District,Address,Additional_Notes
+DNI,0,Client_1,Client_1,client_1@vetcoressen.health,0,Country_1,State_1,City_1,Address_1,None
+DNI,0,Client_2,Client_2,client_2@vetcoressen.health,0,Country_2,State_2,City_2,Address_2,None
+DNI,0,Client_3,Client_3,client_3@vetcoressen.health,0,Country_3,State_3,City_3,Address_3,None
+DNI,0,Client_4,Client_4,client_4@vetcoressen.health,0,Country_4,State_4,City_4,Address_4,None
+DNI,0,Client_5,Client_5,client_5@vetcoressen.health,0,Country_5,State_5,City_5,Address_5,None
+DNI,0,Client_6,Client_6,client_6@vetcoressen.health,0,Country_6,State_6,City_6,Address_6,None
+DNI,0,Client_7,Client_7,client_7@vetcoressen.health,0,Country_7,State_7,City_7,Address_7,None
+DNI,0,Client_8,Client_8,client_8@vetcoressen.health,0,Country_8,State_8,City_8,Address_8,None
+DNI,0,Client_9,Client_9,client_9@vetcoressen.health,0,Country_9,State_9,City_9,Address_9,None
+DNI,0,Client_10,Client_10,client_10@vetcoressen.health,0,Country_10,State_10,City_10,Address_10,None
