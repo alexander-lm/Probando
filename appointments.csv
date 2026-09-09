@@ -1,4 +1,4 @@
-Client,Pet,Veterinarian,Date,Time,Reason_for_consultation,Status,Notes
+Client,Pet,Veterinarian,Date,Time,Reason_for_Consultation,Status,Notes
 Client_1,Pet_1,Veterinarian_1,16/03/2026,07:00:00,"Recurrent vomiting and diarrhea with blood streaks for 24 hours, accompanied by lethargy and anorexia.",Completed,"None					"
 Client_2,Pet_2,Veterinarian_1,16/03/2026,10:00:00,"Severe pruritus, erythema, and hair loss in ventral region, axillae, and pinnae lasting 2 weeks.",Completed,"None					"
 Client_3,Pet_3,Veterinarian_3,17/03/2026,09:00:00,Intermittent left hindlimb lameness and skipping gait when trotting.,Completed,"None					"
